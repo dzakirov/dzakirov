@@ -1,4 +1,9 @@
-### Ку всем 👋
+### :sparkles::sparkles::sparkles: Ку всем (hi everyone, that is) :sparkles::sparkles::sparkles:
+
+:ru:, Default-city
+
+
+
 
 <!--
 **dzakirov/dzakirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
