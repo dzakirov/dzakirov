@@ -1,6 +1,6 @@
 ### :sparkles::sparkles::sparkles: Ку всем (hi everyone, that is) :sparkles::sparkles::sparkles:
 
-:ru:, Default-city
+:ru: Default-city
 
 
 
