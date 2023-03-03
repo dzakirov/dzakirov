@@ -1,21 +1,12 @@
-### :sparkles::sparkles::sparkles: Ку всем (hi everyone, that is) :sparkles::sparkles::sparkles:
+# Закиров Дамир, крутой разработчик 1С, в остальном ты круче меня :cowboy_hat_face:
+> ![](https://github.com/dzakirov/dzakirov/blob/main/icons8-1c-80.png)
+>
+> опыт — застал динозавров
 
-:ru: Default-city
+## Продукт:
+[Конструктор ботов Telegram на 1С](https://infostart.ru/public/1459912/)
+> ![Лучший продукт 2022](https://github.com/dzakirov/dzakirov/blob/main/reward-infostart.png):
 
+[Сайт](https://infostart.ru/public/1459912/) в процессе
 
-
-
-<!--
-**dzakirov/dzakirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Связаться: <https://t.me/zakirovdamir>
