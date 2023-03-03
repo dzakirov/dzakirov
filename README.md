@@ -7,6 +7,6 @@
 [Конструктор ботов Telegram на 1С](https://infostart.ru/public/1459912/)
 > ![Лучший продукт 2022](https://github.com/dzakirov/dzakirov/blob/main/reward-infostart.png):
 
-[Сайт](https://infostart.ru/public/1459912/) в процессе
+[Сайт](https://telegram-1c.ru) в процессе
 
 Связаться: <https://t.me/zakirovdamir>
