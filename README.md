@@ -2,10 +2,14 @@
 <https://t.me/zakirovdamir>
 
 ## Опыт — застал динозавров / Experience - caught dinosaurs
-![](https://github.com/dzakirov/dzakirov/blob/main/icons8-1c-80.png)
+<p>
+  <a href="https://1c-dn.com/">
+    <img title="1C Enterprise" src="https://github.com/dzakirov/dzakirov/blob/main/icons8-1c-80.png" />
+  </a>
+</p>
 
 ## Совершенствуюсь / Improving
-<p align="left">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,nestjs,nodejs,vscode,git,docker" />
   </a>
