@@ -1,5 +1,6 @@
-# [Закиров Дамир](https://t.me/zakirovdamir), крутой разработчик 1С, в остальном ты круче меня
-## Опыт — застал динозавров
+# Закиров Дамир — [t.me](https://t.me/zakirovdamir)
+
+## Основная деятельность
 <p>
   <a href="https://v8.1c.ru/platforma/">
     <img title="1C Enterprise" src="https://github.com/dzakirov/dzakirov/blob/main/icons8-1c-80.png" />
