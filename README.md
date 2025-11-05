@@ -13,6 +13,6 @@
   </a>
 </p>
 
-## Продукт / Product:
+## Продукт
 [Конструктор ботов Telegram на 1С](https://telegram-1c.ru) [на инфостарте](https://infostart.ru/public/1459912/)
 > ![Лучший продукт 2022](https://github.com/dzakirov/dzakirov/blob/main/reward-infostart.png)
