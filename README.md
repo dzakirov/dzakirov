@@ -11,12 +11,12 @@
 ## Второй фронт
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,git,docker,python,fastapi" />
+    <img src="https://skillicons.dev/icons?i=py,fastapi,bots,docker,linux,nginx,bash,html,vscode,git" />
   </a>
 </p>
 
 ## Продукт / Product:
-[Конструктор ботов Telegram на 1С / Telegram bot constructor for 1C](https://infostart.ru/public/1459912/)
+[Конструктор ботов Telegram на 1С](https://infostart.ru/public/1459912/)
 > ![Лучший продукт 2022](https://github.com/dzakirov/dzakirov/blob/main/reward-infostart.png)
 
-[Сайт / Site](https://telegram-1c.ru) в процессе / in progress
+[Сайт](https://telegram-1c.ru)
