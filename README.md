@@ -1,7 +1,7 @@
 # [Закиров Дамир](https://t.me/zakirovdamir), крутой разработчик 1С, в остальном ты круче меня
 ## Опыт — застал динозавров
 <p>
-  <a href="https://1c-dn.com/">
+  <a href="v8.1c.ru/platforma/">
     <img title="1C Enterprise" src="https://github.com/dzakirov/dzakirov/blob/main/icons8-1c-80.png" />
   </a>
 </p>
